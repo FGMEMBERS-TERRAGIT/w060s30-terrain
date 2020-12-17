@@ -1,0 +1,5 @@
+OBJECT_BASE 2101504.btg
+OBJECT SDPV.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -51.888988 -21.889761 451.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -51.879345 -21.896352 456.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -51.883843 -21.892611 457.0 0.00

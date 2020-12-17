@@ -1,0 +1,7 @@
+OBJECT_BASE 2019121.btg
+OBJECT SIVZ.btg
+OBJECT_SHARED Models/Airport/windsock.xml -56.548899 -29.190895 55.0 0.00
+OBJECT SSIQ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -56.542546 -29.168094 65.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -56.530788 -29.177460 74.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -56.536172 -29.172262 71.9 0.00
